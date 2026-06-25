@@ -87,7 +87,7 @@ const alaa: Developer = {
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=sliceline&color=0:f472b6,50:a855f7,100:22d3ee&height=4&section=footer&animation=blinking" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 <br>
@@ -183,7 +183,7 @@ const alaa: Developer = {
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=sliceline&color=0:22d3ee,50:a855f7,100:f472b6&height=4&section=footer&animation=blinking" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 <br>
@@ -222,7 +222,7 @@ const alaa: Developer = {
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=3laaelsheikh&theme=onedark&no-frame=true&no-bg=true&column=2&margin-w=8&margin-h=8&rank=-C" alt="GitHub Trophies" width="100%" />
+<img src="https://profile-trophy.vercel.app/?username=3laaelsheikh&theme=dracula&no-frame=true&no-bg=false&column=2&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
 
 </td>
 </tr>
@@ -248,18 +248,21 @@ const alaa: Developer = {
 
 <br><br>
 
+<!-- Snake generates after running: Actions → Generate Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake.svg" width="100%" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+<sub>Snake animation appears after the <b>Generate Snake</b> workflow runs once.</sub>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=sliceline&color=0:22d3ee,50:a855f7,100:f472b6&height=4&section=footer&animation=blinking" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 <br>
