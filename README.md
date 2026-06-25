@@ -34,7 +34,7 @@
 <tr>
 <td width="58%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,ec4899,a855f7,6366f1&height=42&section=header&text=%E2%9C%A8%20About%20Me&fontSize=17&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a855f7,100:6366f1&height=42&section=header&text=%E2%9C%A8%20About%20Me&fontSize=17&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br>
 
@@ -87,7 +87,7 @@ const alaa: Developer = {
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=sliceline&color=gradient&customColorList=24,f472b6,a855f7,22d3ee&height=4&section=footer&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=sliceline&color=0:f472b6,50:a855f7,100:22d3ee&height=4&section=footer&animation=blinking" width="100%" />
 </div>
 
 <br>
@@ -95,7 +95,7 @@ const alaa: Developer = {
 <!-- ─── TECH STACK ─── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,06b6d4,8b5cf6,ec4899&height=42&section=header&text=%F0%9F%AA%84%20Tech%20Stack&fontSize=17&fontColor=ffffff&animation=fadeIn" width="45%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:ec4899&height=42&section=header&text=%F0%9F%AA%84%20Tech%20Stack&fontSize=17&fontColor=ffffff&animation=fadeIn" width="45%" />
 
 <br><br>
 
@@ -129,27 +129,6 @@ const alaa: Developer = {
 
 <br>
 
-**Databases**
-
-<br>
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-<td width="50%" valign="top" align="left">
-
-**Backend**
-
-<br>
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-6366F1?style=for-the-badge&logo=fastapi&logoColor=white)
-
-<br>
 
 **DevOps**
 
@@ -188,7 +167,7 @@ const alaa: Developer = {
 <!-- ─── GITHUB ANALYTICS ─── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,f59e0b,ec4899,8b5cf6&height=42&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=17&fontColor=ffffff&animation=fadeIn" width="50%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,50:ec4899,100:8b5cf6&height=42&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=17&fontColor=ffffff&animation=fadeIn" width="50%" />
 
 <br><br>
 
@@ -204,7 +183,7 @@ const alaa: Developer = {
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=sliceline&color=gradient&customColorList=24,22d3ee,a855f7,f472b6&height=4&section=footer&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=sliceline&color=0:22d3ee,50:a855f7,100:f472b6&height=4&section=footer&animation=blinking" width="100%" />
 </div>
 
 <br>
@@ -212,7 +191,7 @@ const alaa: Developer = {
 <!-- ─── ACHIEVEMENTS ─── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,ec4899,f59e0b,a855f7&height=42&section=header&text=%F0%9F%8F%86%20Achievements&fontSize=17&fontColor=ffffff&animation=fadeIn" width="42%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:f59e0b,100:a855f7&height=42&section=header&text=%F0%9F%8F%86%20Achievements&fontSize=17&fontColor=ffffff&animation=fadeIn" width="42%" />
 
 <br><br>
 
@@ -259,193 +238,13 @@ const alaa: Developer = {
 
 <br>
 
-<!-- ─── FEATURED PROJECTS ─── -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,6366f1,ec4899,06b6d4&height=42&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=17&fontColor=ffffff&animation=fadeIn" width="52%" />
 
-<br><br>
-
-<sub>Selected work — clean architecture, modern UI, production-minded code.</sub>
-
-<br><br>
-
-<table width="95%">
-<tr>
-<td width="50%" valign="top">
-
-**E-Commerce App**
-
-Online shopping with cart, checkout & payment flow.
-
-`React` · `JavaScript` · `CSS`
-
-<br>
-
-<a href="#"><img src="https://img.shields.io/badge/demo-coming_soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/3laaelsheikh/E-Commerce-App"><img src="https://img.shields.io/badge/repository-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br><br>
-
-**Mansour Takaml**
-
-TypeScript app with scalable frontend patterns.
-
-`TypeScript` · `React`
-
-<br>
-
-<a href="#"><img src="https://img.shields.io/badge/demo-coming_soon-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/3laaelsheikh/mansour-takaml"><img src="https://img.shields.io/badge/repository-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br><br>
-
-**Yummy App**
-
-Global meals explorer with recipes & videos.
-
-`JavaScript` · `API Integration`
-
-<br>
-
-<a href="#"><img src="https://img.shields.io/badge/demo-coming_soon-F59E0B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/3laaelsheikh/Yummy-app"><img src="https://img.shields.io/badge/repository-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**Weather App**
-
-3-day forecast with hourly weather breakdown.
-
-`HTML` · `CSS` · `JavaScript`
-
-<br>
-
-<a href="#"><img src="https://img.shields.io/badge/demo-coming_soon-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="https://github.com/3laaelsheikh/Weather-app"><img src="https://img.shields.io/badge/repository-3B82F6?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br><br>
-
-**Login System**
-
-Auth flow with registration & welcome dashboard.
-
-`JavaScript` · `DOM` · `Local Storage`
-
-<br>
-
-<a href="#"><img src="https://img.shields.io/badge/demo-coming_soon-EC4899?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/3laaelsheikh/Login-System-app"><img src="https://img.shields.io/badge/repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br><br>
-
-**Wajihat App**
-
-Full-featured web app with modern UI patterns.
-
-`JavaScript` · `Responsive UI`
-
-<br>
-
-<a href="#"><img src="https://img.shields.io/badge/demo-coming_soon-10B981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/3laaelsheikh/Wajihat-app"><img src="https://img.shields.io/badge/repository-F472B6?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://github.com/3laaelsheikh?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=sliceline&color=gradient&customColorList=24,f472b6,a855f7,22d3ee&height=4&section=footer&animation=blinking" width="100%" />
-</div>
-
-<br>
-
-<!-- ─── CURRENT FOCUS ─── -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,a855f7,ec4899,06b6d4&height=42&section=header&text=%F0%9F%8E%AF%20Current%20Focus&fontSize=17&fontColor=ffffff&animation=fadeIn" width="45%" />
-
-<br><br>
-
-<table width="90%">
-<tr>
-<td width="25%" align="center" valign="top">
-
-**AI Applications**
-
-<br>
-
-<sub>Intelligent features in modern web products with magical, usable interfaces.</sub>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Scalable Architectures**
-
-<br>
-
-<sub>Component-driven systems and maintainable frontend patterns at scale.</sub>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Next.js Performance**
-
-<br>
-
-<sub>SSR, ISR, image optimization, caching & Core Web Vitals.</sub>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Design Systems**
-
-<br>
-
-<sub>UI primitives, tokens, and reusable components with polish.</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ede9fe', 'primaryTextColor': '#5b21b6', 'primaryBorderColor': '#a855f7', 'lineColor': '#ec4899', 'secondaryColor': '#fce7f3', 'tertiaryColor': '#e0f2fe'}}}%%
-graph LR
-    A([Focus]) --> B[AI Apps]
-    A --> C[Architecture]
-    A --> D[Performance]
-    A --> E[Design Systems]
-    B --> F[Smart UI]
-    C --> G[Next.js]
-    D --> H[Core Web Vitals]
-    E --> I[Components]
-```
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-95245ccf-1a98-4991-8702-f940ecd37d34.gif" width="700" />
-</div>
-
-<br>
 
 <!-- ─── CONTRIBUTION SNAKE ─── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,22d3ee,8b5cf6,ec4899&height=42&section=header&text=%F0%9F%90%8D%20Contribution%20Graph&fontSize=17&fontColor=ffffff&animation=fadeIn" width="50%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=42&section=header&text=%F0%9F%90%8D%20Contribution%20Graph&fontSize=17&fontColor=ffffff&animation=fadeIn" width="50%" />
 
 <br><br>
 
@@ -460,7 +259,7 @@ graph LR
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=sliceline&color=gradient&customColorList=24,22d3ee,a855f7,f472b6&height=4&section=footer&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=sliceline&color=0:22d3ee,50:a855f7,100:f472b6&height=4&section=footer&animation=blinking" width="100%" />
 </div>
 
 <br>
@@ -468,7 +267,7 @@ graph LR
 <!-- ─── CONNECT ─── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,ec4899,a855f7,6366f1&height=42&section=header&text=%F0%9F%A4%9D%20Connect&fontSize=17&fontColor=ffffff&animation=fadeIn" width="35%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a855f7,100:6366f1&height=42&section=header&text=%F0%9F%A4%9D%20Connect&fontSize=17&fontColor=ffffff&animation=fadeIn" width="35%" />
 
 <br><br>
 
@@ -481,20 +280,13 @@ graph LR
 <a href="https://github.com/3laaelsheikh"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:3laamohamed19@gmail.com"><img src="https://img.shields.io/badge/Email-3laamohamed19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br><br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=footer&text=Alaa%20Elsheikh&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e863-7a31-4957-b92a-7a0d24ce3048.gif" width="500" />
-
-<br>
-
-**Made with 💜 and magic gradients · © 2026**
-
 </div>
