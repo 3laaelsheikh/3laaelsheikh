@@ -1,38 +1,35 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=Alaa%20El-Sheikh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Next.js%20%26%20React&descAlignY=55&descAlign=50" />
+<!-- Aurora Header -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,40:4c1d95,75:a855f7,100:f857a6&height=280&section=header&text=Alaa%20El-Sheikh&fontSize=75&fontColor=fff5f7&animation=twinkling&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20Next.js%20%26%20React%20%C2%B7%20Cairo%20%F0%9F%87%AA%F0%9F%87%B6&descSize=18&descAlignY=58&descAlign=50" />
 
 <!-- Profile Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/alaa-el-sheikh/"><img src="https://img.shields.io/badge/-Alaa%20El--Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:3laamohamed19@gmail.com"><img src="https://img.shields.io/badge/-3laamohamed19@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-Frontend%20Engineer-FF6B6B?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Mitch%20Designs-00D9FF?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cairo%2C%20Egypt-2ECC40?style=flat&logo=googlemaps&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=3laaelsheikh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/alaa-el-sheikh/"><img src="https://img.shields.io/badge/Alaa_El--Sheikh-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:3laamohamed19@gmail.com"><img src="https://img.shields.io/badge/3laamohamed19@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Frontend_Engineer-a855f7?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mitch_Designs-f857a6?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cairo,_Egypt-fbbf24?style=flat-square&logo=googlemaps&logoColor=black"/>
+  <img src="https://komarev.com/ghpvc/?username=3laaelsheikh&label=Profile%20views&color=a855f7&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- Animated Typing -->
+<!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=900&lines=Welcome+to+my+GitHub+Profile!;Frontend+Engineer+%40+Mitch+Designs;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Tailwind;Building+Scalable+%26+Accessible+Web+Apps" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1200&color=F857A6&center=true&vCenter=true&width=900&lines=Crafting+Elegant+Frontend+Experiences+%E2%9C%A8;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Tailwind;Headless+CMS+%C2%B7+SSR%2FISR+%C2%B7+Core+Web+Vitals;Building+Apps+Users+Actually+Love" alt="Typing SVG" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-95245ccf-1a98-4991-8702-f940ecd37d34.gif" width="900" alt="divider" />
 
 </div>
-
-<!-- Gradient Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
 
 <!-- About Me -->
 <table align="center">
 <tr>
-<td width="50%">
+<td width="52%">
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=44&section=header&text=%F0%9F%9A%80%20About%20Me&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<br>
 
 ```typescript
 interface Developer {
@@ -69,62 +66,52 @@ const alaaElSheikh: Developer = {
 ```
 
 </td>
-<td width="50%">
+<td width="48%">
 
-<img alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+<img alt="Developer Animation" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9fc0-7be4c7b4f6d2.gif" width="100%" />
 
 </td>
 </tr>
 </table>
 
-<!-- Gradient Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1b993874-8695-4936-9aea-fad059dd06e8.gif" width="100%">
 </p>
 
 <!-- Specialization -->
-<h2 align="center">🎯 Current Specialization</h2>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,f857a6,a855f7,7c3aed&height=44&section=header&text=%F0%9F%8E%AF%20Current%20Specialization&fontSize=18&fontColor=ffffff&animation=fadeIn" width="60%" />
+
+<br><br>
 
 ### ⚛️ Next.js & Modern Frontend Engineering
 
-I specialize in building **high-performance, accessible web applications** with **Next.js**, **TypeScript**, and **headless CMS** integrations!
+I build **high-performance, accessible web applications** with **Next.js**, **TypeScript**, and **headless CMS** integrations.
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🔧 What I Do:
-- ⚡ **Next.js & React Development**
-  - Scalable component-driven UIs
-  - SSR, ISR & SSG data fetching
-  - Image optimization & code-splitting
-
-- 🗂️ **Headless CMS Integration**
-  - Strapi & WordPress (REST / GraphQL)
-  - Admin dashboards & data entry flows
-  - Secure API token handling
-
-- 🎨 **Performance & Quality**
-  - Core Web Vitals optimization
-  - WCAG accessibility standards
-  - Jest & RTL unit testing
+#### 🔧 What I Do
+- ⚡ **Next.js & React** — component-driven UIs, SSR/ISR/SSG
+- 🗂️ **Headless CMS** — Strapi & WordPress via REST/GraphQL
+- 🎨 **Performance** — Core Web Vitals, image optimization, code-splitting
+- 🧪 **Quality** — Jest, RTL, ESLint, WCAG & SEO best practices
 
 </td>
 <td width="50%">
 
-#### 💼 Experience:
+#### 💼 Experience
 - 🏢 **Mitch Designs** — Front-End Developer `Jul 2024 – Present`
 - 🏢 **USAM** — Internship `Apr – Jul 2024`
 - 🏢 **Route** — Internship `Apr – Oct 2023`
 
-#### 📜 Education & Certs:
+#### 📜 Education
 - 🎓 **B.Sc. Computer Science** — MTI University
 - 📜 **React.js Diploma** — Route Academy
 
-#### 💡 My Goal:
-> Delivering clean, maintainable, and blazing-fast web experiences that users love
+> *Delivering clean, maintainable, blazing-fast experiences*
 
 </td>
 </tr>
@@ -132,135 +119,141 @@ I specialize in building **high-performance, accessible web applications** with 
 
 </div>
 
-<!-- Gradient Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-95245ccf-1a98-4991-8702-f940ecd37d34.gif" width="900">
 </p>
 
-<!-- Quick Stats -->
-<h2 align="center">📊 Quick Stats Overview</h2>
+<!-- Stats -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=44&section=header&text=%F0%9F%93%8A%20Quick%20Stats%20Overview&fontSize=18&fontColor=ffffff&animation=fadeIn" width="55%" />
+
+<br><br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=3laaelsheikh&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=e9d5ff&icon_color=f857a6&text_color=ffffff&ring_color=a855f7&border_color=7c3aed&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=3laaelsheikh&hide_border=true&background=0F0C29&stroke=7C3AED&ring=F857A6&fire=FBBF24&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E9D5FF&sideLabels=E9D5FF&dates=FFFFFF" alt="Streak Stats" />
+
+</div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=3laaelsheikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=3laaelsheikh&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=FF6B6B&fire=FFA500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" alt="Streak Stats" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1b993874-8695-4936-9aea-fad059dd06e8.gif" width="100%">
 </p>
 
 <!-- Technologies -->
-<h2 align="center">💻 Technologies & Tools</h2>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f857a6&height=44&section=header&text=%F0%9F%92%BB%20Technologies%20%26%20Tools&fontSize=18&fontColor=ffffff&animation=fadeIn" width="55%" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,jquery,git,jest,graphql,wordpress,figma,postman&theme=dark&perline=9" alt="Tech Stack" />
+
+<br><br>
 
 <details open>
-<summary><b>🎨 Frontend Technologies</b></summary>
+<summary><b>🎨 Frontend</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 </details>
 
 <details open>
-<summary><b>🗂️ CMS & APIs</b></summary>
+<summary><b>🗂️ CMS, APIs & Testing</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTL-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 </details>
 
-<details open>
-<summary><b>🧪 Testing & DevOps</b></summary>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-95245ccf-1a98-4991-8702-f940ecd37d34.gif" width="900">
+</p>
+
+<!-- Activity -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=44&section=header&text=%F0%9F%93%88%20Contribution%20Activity&fontSize=18&fontColor=ffffff&animation=fadeIn" width="55%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=3laaelsheikh&hide_border=true&bg_color=0f0c29&color=e9d5ff&line=f857a6&point=fbbf24&area=true&custom_title=Alaa%27s%20Contribution%20Graph" width="100%" alt="Activity Graph" />
+
+</div>
+
 <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
-</details>
 
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-FF6B6B?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
-  <img src="https://img.shields.io/badge/WCAG-2ECC40?style=for-the-badge&logo=accessibility&logoColor=white" />
-</p>
-</details>
+<!-- Languages & Summary -->
+<div align="center">
 
-<!-- Gradient Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=44&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=18&fontColor=ffffff&animation=fadeIn" width="50%" />
 
-<!-- Activity Graph -->
-<h2 align="center">📈 Contribution Activity</h2>
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3laaelsheikh&layout=compact&hide_border=true&bg_color=0f0c29&title_color=e9d5ff&text_color=ffffff&icon_color=f857a6&langs_count=8" alt="Top Languages" />
+<img width="52%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3laaelsheikh&theme=dracula" alt="Profile Details" />
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3laaelsheikh&theme=dracula" alt="Repos per Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3laaelsheikh&theme=dracula" alt="Most Commit Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3laaelsheikh&theme=dracula&utcOffset=2" alt="Productive Time" />
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3laaelsheikh&theme=react-dark&hide_border=true&bg_color=1a1b27&color=00D9FF&line=FF6B6B&point=FFA500&area=true&custom_title=Alaa%27s%20GitHub%20Activity" width="100%" alt="Activity Graph" />
-</p>
-
-<!-- Language Stats -->
-<h2 align="center">📊 Language Statistics</h2>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3laaelsheikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
-</p>
-
-<!-- Profile Summary -->
-<h2 align="center">💳 GitHub Profile Summary</h2>
-
-<p align="center">
-  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3laaelsheikh&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3laaelsheikh&theme=tokyonight" alt="Repos per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3laaelsheikh&theme=tokyonight" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3laaelsheikh&theme=tokyonight&utcOffset=2" alt="Productive Time" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1b993874-8695-4936-9aea-fad059dd06e8.gif" width="100%">
 </p>
 
 <!-- Trophies -->
-<h2 align="center">🏆 GitHub Achievements</h2>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f857a6&height=44&section=header&text=%F0%9F%8F%86%20GitHub%20Achievements&fontSize=18&fontColor=ffffff&animation=fadeIn" width="50%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=3laaelsheikh&theme=dracula&no-frame=true&column=4&margin-w=12&margin-h=12&no-bg=true" alt="Trophies" />
+
+</div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3laaelsheikh&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
-</p>
-
-<!-- Gradient Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e863-7a31-4957-b92a-7a0d24ce3048.gif" width="700" alt="stars">
 </p>
 
 <!-- Learning Path -->
-<h2 align="center">🎯 Current Focus & Learning Path</h2>
-
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,a855f7,f857a6,fbbf24&height=44&section=header&text=%F0%9F%8E%AF%20Learning%20Path&fontSize=18&fontColor=ffffff&animation=fadeIn" width="45%" />
+
+<br><br>
+
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#a855f7', 'primaryTextColor': '#fff', 'lineColor': '#f857a6', 'secondaryColor': '#7c3aed', 'tertiaryColor': '#0f0c29'}}}%%
 graph LR
-    A[Current Focus] --> B[Next.js Mastery]
+    A([🎯 Focus]) --> B[Next.js]
     A --> C[Headless CMS]
     A --> D[Performance]
-    B --> E[SSR / ISR / SSG]
-    B --> F[TypeScript]
+    B --> E[TypeScript]
+    B --> F[SSR / ISR / SSG]
     C --> G[Strapi]
     C --> H[WordPress]
     D --> I[Core Web Vitals]
@@ -269,35 +262,41 @@ graph LR
 
 </div>
 
-<!-- Featured Projects -->
-<h2 align="center">🛠️ Featured Projects</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-95245ccf-1a98-4991-8702-f940ecd37d34.gif" width="900">
+</p>
 
+<!-- Projects -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=44&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Featured%20Projects&fontSize=18&fontColor=ffffff&animation=fadeIn" width="50%" />
+
+<br><br>
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🛒 E-Commerce App
-React shopping app with cart & online checkout
+### 🛒 E-Commerce
+React store with cart & checkout
 
-[![Repo](https://img.shields.io/badge/View-Repository-00D9FF?style=for-the-badge)](https://github.com/3laaelsheikh/E-Commerce-App)
-
-</td>
-<td width="33%" align="center">
-
-### 🍽️ Yummy App
-World meals with recipes & video guides
-
-[![Repo](https://img.shields.io/badge/View-Repository-FF6B6B?style=for-the-badge)](https://github.com/3laaelsheikh/Yummy-app)
+[![View](https://img.shields.io/badge/Repository-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3laaelsheikh/E-Commerce-App)
 
 </td>
 <td width="33%" align="center">
 
-### 🌤️ Weather App
-3-day forecast with hourly weather data
+### 🍽️ Yummy
+Meals, recipes & video guides
 
-[![Repo](https://img.shields.io/badge/View-Repository-2ECC40?style=for-the-badge)](https://github.com/3laaelsheikh/Weather-app)
+[![View](https://img.shields.io/badge/Repository-f857a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3laaelsheikh/Yummy-app)
+
+</td>
+<td width="33%" align="center">
+
+### 🌤️ Weather
+3-day forecast & hourly data
+
+[![View](https://img.shields.io/badge/Repository-fbbf24?style=for-the-badge&logo=github&logoColor=black)](https://github.com/3laaelsheikh/Weather-app)
 
 </td>
 </tr>
@@ -305,25 +304,25 @@ World meals with recipes & video guides
 <td width="33%" align="center">
 
 ### 🔐 Login System
-Smart auth with registration & welcome flow
+Auth with welcome dashboard
 
-[![Repo](https://img.shields.io/badge/View-Repository-FFA500?style=for-the-badge)](https://github.com/3laaelsheikh/Login-System-app)
+[![View](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3laaelsheikh/Login-System-app)
 
 </td>
 <td width="33%" align="center">
 
 ### 💪 Fitnut
-Fitness & nutrition tracking application
+Fitness & nutrition tracker
 
-[![Repo](https://img.shields.io/badge/View-Repository-9B59B6?style=for-the-badge)](https://github.com/3laaelsheikh/Fitnut)
+[![View](https://img.shields.io/badge/Repository-e879f9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3laaelsheikh/Fitnut)
 
 </td>
 <td width="33%" align="center">
 
-### 📦 More Projects
-Explore all 16+ repositories on GitHub
+### 📦 All Projects
+16+ repos on GitHub
 
-[![Repo](https://img.shields.io/badge/View-All-0077B5?style=for-the-badge)](https://github.com/3laaelsheikh?tab=repositories)
+[![View](https://img.shields.io/badge/View_All-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3laaelsheikh?tab=repositories)
 
 </td>
 </tr>
@@ -331,62 +330,67 @@ Explore all 16+ repositories on GitHub
 
 </div>
 
-<!-- Philosophy -->
-<h2 align="center">💡 Philosophy</h2>
+<br>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
-<p align="center">
-  <i>"Great frontend is invisible — users feel the experience, not the code"</i>
-</p>
-
-<!-- Connect -->
-<h2 align="center">🤝 Let's Connect!</h2>
-
+<!-- Quote -->
 <div align="center">
 
-  <p>
-    <i>Looking for a Frontend Engineer to build fast, accessible Next.js applications?</i><br>
-    <i>Let's collaborate and build something amazing together!</i>
-  </p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
-  <a href="https://www.linkedin.com/in/alaa-el-sheikh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:3laamohamed19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/3laa_elsheikh">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/alaamohamed">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/3laa_elsheikh">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<br>
 
-  <br><br>
+<img src="https://capsule-render.vercel.app/api?type=sliceline&color=gradient&height=6&section=footer&animation=blinking" width="80%" />
 
-  <img src="https://img.shields.io/badge/Open_to_Work-Available_for_Projects-2ECC40?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MTI_University-CS_Graduate-00D9FF?style=for-the-badge" />
+<br>
+
+<i>"Great frontend is invisible — users feel the experience, not the code"</i>
 
 </div>
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1b993874-8695-4936-9aea-fad059dd06e8.gif" width="100%">
 </p>
 
-<h3 align="center">
-  <i>⚡ "Code with purpose, ship with confidence, optimize with passion"</i>
-</h3>
+<!-- Connect -->
+<div align="center">
 
-<p align="center">
-  <i>Made with ❤️ by <b>Alaa Mohamed Sedek El-Sheikh</b></i>
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f857a6&height=44&section=header&text=%F0%9F%A4%9D%20Let%27s%20Connect&fontSize=18&fontColor=ffffff&animation=fadeIn" width="40%" />
+
+<br><br>
+
+<i>Looking for a Frontend Engineer to build fast, accessible Next.js apps?</i><br>
+<i>Let's build something amazing together!</i>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/alaa-el-sheikh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:3laamohamed19@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/3laa_elsheikh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.facebook.com/alaamohamed"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/3laa_elsheikh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Open_to_Work-2ECC71?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js_Expert-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MTI_University-a855f7?style=for-the-badge&logo=gradio&logoColor=white" />
+
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f857a6,50:a855f7,100:0f0c29&height=130&section=footer&text=Thanks%20for%20Visiting!%20%E2%9C%A8&fontSize=26&fontColor=fff5f7&animation=twinkling" width="100%" />
+
+<h3><i>⚡ Code with purpose · Ship with confidence · Optimize with passion</i></h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e863-7a31-4957-b92a-7a0d24ce3048.gif" width="500" alt="sparkle" />
+
+<p>
+  <i>Made with 💜 by <b>Alaa Mohamed Sedek El-Sheikh</b></i><br>
   <i>© 2026 All rights reserved</i>
 </p>
+
+</div>
