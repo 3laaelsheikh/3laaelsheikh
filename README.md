@@ -283,7 +283,7 @@ const currentGoals2026 = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-contribution-grid-snake-dark.gif)
 
 </div>
 
