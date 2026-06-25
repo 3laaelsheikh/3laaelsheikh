@@ -1,295 +1,378 @@
 <div align="center">
 
-<!-- ✨ HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=Alaa%20Elsheikh&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=18&descAlignY=58&descAlign=50" width="100%" />
+# Hi there, I'm Alaa Elsheikh 👋
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Next.js+%26+React+Developer;UI%2FUX+%26+Performance;Building+Beautiful+Web+Apps" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Crafting+Magical+Web+Experiences+%E2%9C%A8;I+build+fast%2C+beautiful+products;React+%C2%B7+Next.js+%C2%B7+Tailwind+%C2%B7+Supabase;Performance+%C2%B7+Design+Systems+%C2%B7+Modern+UX" alt="Typing animation" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge&logo=vercel)](https://github.com/3laaelsheikh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alaa-el-sheikh/)
+[![Email](https://img.shields.io/badge/Email-3laamohamed19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3laamohamed19@gmail.com)
 
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=3laaelsheikh&color=blueviolet&style=flat-square&label=Profile+Views)
 
-<h3>✨ I craft high-performance interfaces with React, Next.js & TypeScript</h3>
-<p><sub>Design systems · Server-driven UI · Performance · Modern UX</sub></p>
-
-<p>
-  <a href="https://www.linkedin.com/in/alaa-el-sheikh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:3laamohamed19@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/3laaelsheikh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=3laaelsheikh&label=Profile%20views&color=A855F7&style=for-the-badge" alt="Profile views" />
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
-<br>
+---
 
-<!-- ─── ABOUT ─── -->
-<table align="center" width="100%">
-<tr>
-<td width="58%" valign="top">
+## 🚀 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a855f7,100:6366f1&height=42&section=header&text=%E2%9C%A8%20About%20Me&fontSize=17&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-<br>
-
-```typescript
-const alaa: Developer = {
-  name: "Alaa Elsheikh",
-  role: "Frontend Engineer",
-  location: "Cairo, Egypt",
-  company: "Mitch Designs",
-  education: "B.Sc. Computer Science — MTI University",
-
-  specialization: [
-    "React.js",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS",
-    "Laravel Integration",
-    "Supabase",
-    "Modern UI/UX",
-    "Performance Optimization",
-  ],
-
-  currentFocus: [
-    "AI-powered application interfaces",
-    "Scalable frontend architectures",
-    "Next.js performance & Core Web Vitals",
-    "Design systems & component libraries",
-  ],
-
-  interests: [
-    "Headless CMS & API-driven UIs",
-    "SSR / ISR / SSG patterns",
-    "Accessibility (WCAG) & SEO",
-    "Clean code & developer experience",
-  ],
+```javascript
+const alaa = {
+    pronouns: "He" | "Him",
+    location: "🇪🇬 Cairo, Egypt",
+    company: "Mitch Designs",
+    code: ["TypeScript", "JavaScript", "HTML", "CSS"],
+    askMeAbout: ["React", "Next.js", "Tailwind CSS", "performance optimization"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "TypeScript", "Redux"],
+            css: ["Tailwind CSS", "Sass", "Bootstrap", "CSS3"]
+        },
+        backEnd: {
+            php: ["Laravel"],
+            integration: ["REST APIs", "GraphQL", "Supabase"]
+        },
+        cms: ["WordPress", "Strapi"],
+        databases: ["Supabase", "MySQL", "PostgreSQL"],
+        misc: ["Jest", "Git", "GitHub Actions", "Figma", "Postman"]
+    },
+    currentFocus: "Scalable frontend architectures & Next.js performance",
+    funFact: "I measure success in Core Web Vitals scores ⚡"
 };
 ```
 
-</td>
-<td width="42%" valign="top" align="center">
-
+<details>
+<summary>📖 More about me</summary>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=3laaelsheikh&show_icons=true&hide_border=true&bg_color=FDF4FF&title_color=7C3AED&icon_color=EC4899&text_color=5B21B6&ring_color=A855F7&border_color=E9D5FF&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="100%" />
+I'm a passionate **Frontend Engineer** dedicated to crafting **scalable, accessible, and high-performance web applications** that users love. With hands-on experience at **Mitch Designs**, **USAM**, and **Route**, I specialize in building modern interfaces with **Next.js**, **React**, and **TypeScript**.
 
-</td>
-</tr>
-</table>
+**What drives me:**
 
-<br>
+- 🎯 **Problem Solver** — Turning complex requirements into clean, intuitive UIs
+- 🏗️ **Performance Advocate** — SSR, ISR, image optimization & Core Web Vitals
+- 💡 **Continuous Learner** — Always exploring new frontend patterns & tools
+- 🤝 **Collaborative Developer** — Clean code, PR reviews, and team documentation
+- 🌍 **Impact-Focused** — Building products that feel fast, polished, and magical
+
+> *"Great frontend is invisible — users feel the experience, not the code."*
+
+</details>
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
 
-<br>
-
-<!-- ─── TECH STACK ─── -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:ec4899&height=42&section=header&text=%F0%9F%AA%84%20Tech%20Stack&fontSize=17&fontColor=ffffff&animation=fadeIn" width="45%" />
-
-<br><br>
-
-<sub>Organized by domain — vibrant, focused, professional.</sub>
-
-<br><br>
-
-<table width="90%">
+<table>
 <tr>
-<td width="50%" valign="top" align="left">
-
-**Frontend**
-
-<br>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-**Styling**
-
-<br>
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<br>
-
-
-**DevOps**
-
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088EE?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-A855F7?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
-**Tools**
-
-<br>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
-
-</td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+        <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+        <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+    </td>
 </tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<br>
-
-<!-- ─── GITHUB ANALYTICS ─── -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,50:ec4899,100:8b5cf6&height=42&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=17&fontColor=ffffff&animation=fadeIn" width="50%" />
-
-<br><br>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=3laaelsheikh&hide_border=true&background=FDF4FF&stroke=E9D5FF&ring=A855F7&fire=EC4899&currStreakNum=5B21B6&sideNums=7C3AED&currStreakLabel=EC4899&sideLabels=A855F7&dates=8B5CF6" alt="Streak Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3laaelsheikh&layout=compact&hide_border=true&bg_color=FDF4FF&title_color=7C3AED&text_color=5B21B6&icon_color=EC4899&langs_count=8&custom_title=Top%20Languages" alt="Top Languages" />
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=3laaelsheikh&hide_border=true&bg_color=FDF4FF&color=7C3AED&line=A855F7&point=EC4899&area=true&area_color=EDE9FE&custom_title=Contribution%20Activity" alt="Activity Graph" />
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<br>
-
-<!-- ─── ACHIEVEMENTS ─── -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:f59e0b,100:a855f7&height=42&section=header&text=%F0%9F%8F%86%20Achievements&fontSize=17&fontColor=ffffff&animation=fadeIn" width="42%" />
-
-<br><br>
-
-<table width="90%">
 <tr>
-<td width="50%" valign="top" align="left">
-
-**Professional**
-
-<br>
-
-- Front-End Developer at **Mitch Designs** — building Next.js & headless web products
-- Delivered production UIs with **Strapi**, **WordPress**, and **Laravel** integrations
-- Optimized apps for **Core Web Vitals**, accessibility, and SEO
-- **React.js Diploma** — Route Academy
-- **B.Sc. Computer Science** — MTI University
-
-<br>
-
-**Open Source**
-
-<br>
-
-- **16+** public repositories on GitHub
-- Active contributor to personal and client-facing projects
-- Experience with **GitHub Actions** CI/CD pipelines
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://profile-trophy.vercel.app/?username=3laaelsheikh&theme=dracula&no-frame=true&no-bg=false&column=2&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
-
-</td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+        <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+        <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+        <br>jQuery
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+        <br>Supabase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+        <br>WordPress
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+        <br>Jest
+    </td>
 </tr>
 </table>
 
 </div>
 
-<br>
+---
+
+## 🌱 Currently Leveling Up
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9fc0-7be4c7b4f6d2.gif">
+
+```typescript
+const currentGoals2026 = {
+    learning: [
+        "🎯 Advanced TypeScript & Next.js patterns",
+        "🤖 AI-powered application interfaces",
+        "☁️ Supabase & modern backend integration",
+        "🐳 CI/CD & GitHub Actions workflows"
+    ],
+    building: [
+        "Scalable frontend architectures",
+        "Headless CMS-powered products",
+        "High-performance, accessible UIs"
+    ],
+    contributing: [
+        "Open-source projects on GitHub",
+        "Frontend & UI/UX community"
+    ]
+};
+```
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
 
-<br>
-
-
-
-
-<!-- ─── CONTRIBUTION SNAKE ─── -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=42&section=header&text=%F0%9F%90%8D%20Contribution%20Graph&fontSize=17&fontColor=ffffff&animation=fadeIn" width="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3laaelsheikh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
-<!-- Snake generates after running: Actions → Generate Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=3laaelsheikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3laaelsheikh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<sub>Snake animation appears after the <b>Generate Snake</b> workflow runs once.</sub>
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+| 🎯 Metric | 📊 Stats |
+|-----------|----------|
+| 💻 Professional Experience | 2+ Years |
+| 🚀 Projects on GitHub | 16+ Repos |
+| 🏢 Current Company | Mitch Designs |
+| 🎓 Education | B.Sc. CS — MTI University |
+| 📜 Certification | React.js Diploma — Route Academy |
+| 🤝 Collaborations | Always Open |
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<img src="https://profile-trophy.vercel.app/?username=3laaelsheikh&theme=dracula&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
 </div>
+
+---
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Alaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=3laaelsheikh&theme=tokyo-night&hide_border=true)](https://github.com/3laaelsheikh)
+
+</div>
+
+---
+
+## 🎯 What I Bring to the Table
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Development
+
+- ✅ Next.js & React component architecture
+- ✅ TypeScript & type-safe codebases
+- ✅ Tailwind CSS & responsive design
+- ✅ SSR / ISR / SSG performance patterns
+- ✅ Accessibility (WCAG) & SEO best practices
+- ✅ State management with Redux
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Integration & Quality
+
+- ✅ Laravel & REST API integration
+- ✅ Supabase & headless CMS (Strapi, WordPress)
+- ✅ Jest & React Testing Library
+- ✅ GitHub Actions CI/CD pipelines
+- ✅ Core Web Vitals optimization
+- ✅ Clean code & component documentation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [E-Commerce App](https://github.com/3laaelsheikh/E-Commerce-App) | Online store with cart & checkout | React · JS |
+| [Mansour Takaml](https://github.com/3laaelsheikh/mansour-takaml) | Scalable TypeScript application | TypeScript |
+| [Yummy App](https://github.com/3laaelsheikh/Yummy-app) | Global meals with recipes & videos | JavaScript |
+| [Weather App](https://github.com/3laaelsheikh/Weather-app) | 3-day forecast with hourly data | HTML · CSS · JS |
+| [Login System](https://github.com/3laaelsheikh/Login-System-app) | Auth flow with welcome dashboard | JavaScript |
+| [Wajihat App](https://github.com/3laaelsheikh/Wajihat-app) | Full-featured web application | JavaScript |
+
+---
+
+## 🎮 When I'm Not Coding
+
+🧠 Learning new frontend technologies  
+🎯 Building side projects on GitHub  
+📚 Reading docs & UI/UX inspiration  
+☕ Drinking coffee & optimizing performance  
+🎵 Listening to music while coding  
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake-dark.svg)
+
+<sub>Run <b>Actions → Generate Snake</b> once if the animation doesn't appear yet.</sub>
+
+</div>
+
+---
+
+## 📫 Let's Connect & Build Something Amazing
+
+<div align="center">
+
+### 💼 Open to exciting opportunities and collaborations!
 
 <br>
 
-<!-- ─── CONNECT ─── -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a855f7,100:6366f1&height=42&section=header&text=%F0%9F%A4%9D%20Connect&fontSize=17&fontColor=ffffff&animation=fadeIn" width="35%" />
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-7C3AED?style=for-the-badge&logo=vercel)](https://github.com/3laaelsheikh)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alaa-el-sheikh/)
+[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3laamohamed19@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/3laaelsheikh)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/3laa_elsheikh)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/3laa_elsheikh)
 
 <br><br>
 
-<p><i>Open to collaborations, freelance projects, and full-time opportunities.</i></p>
+**💡 I am currently interested in:**
 
 <br>
 
-<a href="https://www.linkedin.com/in/alaa-el-sheikh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/3laaelsheikh"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:3laamohamed19@gmail.com"><img src="https://img.shields.io/badge/Email-3laamohamed19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<table>
+    <tr>
+        <td align="center" width="200">
+            <h2 align="center">🚀</h2>
+            <b>Full-time<br>Opportunities</b>
+        </td>
+        <td align="center" width="200">
+            <h2 align="center">🤝</h2>
+            <b>Freelance<br>Projects</b>
+        </td>
+        <td align="center" width="200">
+            <h2 align="center">💬</h2>
+            <b>Tech<br>Discussions</b>
+        </td>
+        <td align="center" width="200">
+            <h2 align="center">🌟</h2>
+            <b>Open-source<br>Collaborations</b>
+        </td>
+    </tr>
+</table>
 
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+---
 
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=footer&text=Alaa%20Elsheikh&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%" />
+### ⭐️ *"Code with purpose. Ship with confidence. Optimize with passion."*
 
-<br>
+**Thanks for stopping by! Let's build something incredible together** ✨
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e863-7a31-4957-b92a-7a0d24ce3048.gif" width="500" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:ec4899,100:6366f1&height=100&section=footer"/>
+
 </div>
