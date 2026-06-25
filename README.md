@@ -30,12 +30,7 @@ const alaa = {
             js: ["React", "Next.js", "TypeScript", "Redux"],
             css: ["Tailwind CSS", "Sass", "Bootstrap", "CSS3"]
         },
-        backEnd: {
-            php: ["Laravel"],
-            integration: ["REST APIs", "GraphQL", "Supabase"]
-        },
         cms: ["WordPress", "Strapi"],
-        databases: ["Supabase", "MySQL", "PostgreSQL"],
         misc: ["Jest", "Git", "GitHub Actions", "Figma", "Postman"]
     },
     currentFocus: "Scalable frontend architectures & Next.js performance",
@@ -86,14 +81,6 @@ I'm a passionate **Frontend Engineer** dedicated to crafting **scalable, accessi
         <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        <br>Laravel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br>PHP
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
         <br>Node.js
     </td>
@@ -129,18 +116,6 @@ I'm a passionate **Frontend Engineer** dedicated to crafting **scalable, accessi
     </td>
 </tr>
 <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-        <br>Supabase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
@@ -294,9 +269,6 @@ const currentGoals2026 = {
 🧠 Learning new frontend technologies  
 🎯 Building side projects on GitHub  
 📚 Reading docs & UI/UX inspiration  
-☕ Drinking coffee & optimizing performance  
-🎵 Listening to music while coding  
-
 ---
 
 ## 💬 Random Dev Quote
@@ -313,9 +285,11 @@ const currentGoals2026 = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake-dark.svg)
-
-<sub>Run <b>Actions → Generate Snake</b> once if the animation doesn't appear yet.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
