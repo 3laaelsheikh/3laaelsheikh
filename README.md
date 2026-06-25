@@ -84,13 +84,14 @@ I'm a passionate **Frontend Engineer** dedicated to crafting **scalable, accessi
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
         <br>Node.js
     </td>
+	
 </tr>
 <tr>
-    <td align="center" width="96">
+	<td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
         <br>HTML5
     </td>
-    <td align="center" width="96">
+	<td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
         <br>CSS3
     </td>
@@ -106,7 +107,10 @@ I'm a passionate **Frontend Engineer** dedicated to crafting **scalable, accessi
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
         <br>Sass
     </td>
-    <td align="center" width="96">
+    
+</tr>
+<tr>
+	<td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
         <br>Redux
     </td>
@@ -114,8 +118,6 @@ I'm a passionate **Frontend Engineer** dedicated to crafting **scalable, accessi
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
         <br>jQuery
     </td>
-</tr>
-<tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
@@ -127,10 +129,6 @@ I'm a passionate **Frontend Engineer** dedicated to crafting **scalable, accessi
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
         <br>Figma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
-        <br>Jest
     </td>
 </tr>
 </table>
@@ -285,11 +283,7 @@ const currentGoals2026 = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-snake-dark.svg" width="100%" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/3laaelsheikh/3laaelsheikh/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
